@@ -1,0 +1,24 @@
+# Secrets / local data
+.env
+users.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# 教材原始檔(不需進 repo)
+9. FastAPI + LINE Bot/
+9. FastAPI + LINE Bot.pdf
